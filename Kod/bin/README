@@ -1,0 +1,14 @@
+ZA POKRETANJE (obavezno u ovom poretku):
+
+1. Instaliran Python 2.7
+
+2. Instaliran NumPy (latest je 1.6.1)
+   Link na .exe -> http://sourceforge.net/projects/numpy/files/NumPy/1.6.1/numpy-1.6.1-win32-superpack-python2.7.exe/download
+
+3. Instaliran OpenCV 2.3.1 (verzija je BITNA!)
+   Link na .exe -> http://sourceforge.net/projects/opencvlibrary/files/opencv-win/2.3.1/OpenCV-2.3.1-win-superpack.exe/download
+
+OPCIONALNO:
+
+4. Instaliran Matplotlib 1.1.0 (za crtanje grafova prilikom testiranja)
+   Link na .exe -> http://sourceforge.net/projects/matplotlib/files/matplotlib/matplotlib-1.1.0/matplotlib-1.1.0.win32-py2.7.exe/download

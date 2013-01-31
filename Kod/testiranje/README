@@ -1,0 +1,2 @@
+Za ispravno pokretanje skripti mapa 'bin' (u kojoj se nalaze moduli lda, klasifikator i knn) 
+mora biti u PYTHONPATH varijabli okoline.
